@@ -1,0 +1,2 @@
+1.Go to the src file and type make -j64 to compile the code which is defined in the makefile
+2.Run the code by typing ./main
